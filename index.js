@@ -1,7 +1,7 @@
 function Home() {
     const listItems = [1, 2, 3, 4]
 
-    const addIem = () => {
+    const addItem = () => {
         const variableA = 1;
         const variableB = 3;
         const variableC = 2;
